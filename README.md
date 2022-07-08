@@ -39,8 +39,6 @@ Download the source code from releases (or clone the git repo) and then install 
 
 [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 
-[Illumninations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
-
 [Indium](https://www.curseforge.com/minecraft/mc-mods/indium)
 
 [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders)
