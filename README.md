@@ -11,8 +11,6 @@ Download the source code from releases (or clone the git repo) and then install 
 
 [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
 
-[Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle/files/3829975)
-
 [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
 
 [Origins (Fabric)](https://www.curseforge.com/minecraft/mc-mods/origins)
@@ -20,8 +18,6 @@ Download the source code from releases (or clone the git repo) and then install 
 [Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes)
 
 [Pehkui](https://www.curseforge.com/minecraft/mc-mods/pehkui)
-
-[Tinkers Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)
 
 [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 
