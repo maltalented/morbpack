@@ -1,11 +1,13 @@
-# morb modpack
-Some modpack with a bunch of mods that we made for friends. Has tech and exploration and some other stuff in it I don't know do I look like I mod minecraft?????
+# Morb Modpack
+"Simple" Fabric 1.19 modpack with a bunch of mods that we made for friends. Exploration with Origin and a bunch of other mods.
 
 ## Installation
 
-Download the source code from releases (or clone the git repo) and then install the .jar files within "Clientside" to your Minecraft client, and the .jar files in "Serverside" to the server. Pretty self explanatory.
+For clients (players), you can use a launcher like [PolyMC](https://github.com/PolyMC/PolyMC) or the [CurseForge Launcher](https://download.curseforge.com/) and then install the modpack, either via the .zip file in releases, or via CurseForge itself. 
 
-## Links
+If you don't want to install a non-standard launcher, you can download the source code (releases or git clone) and then install it to your .minecraft/mods. Make sure Fabric is installed.
+
+## Mods + CurseForge Links
 
 [Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
 
