@@ -52,3 +52,5 @@ Download the source code from releases (or clone the git repo) and then install 
 [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 
 [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
+
+[SkinRestorer](https://www.curseforge.com/minecraft/mc-mods/skinrestorer)
