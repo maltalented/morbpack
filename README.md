@@ -54,3 +54,5 @@ Download the source code from releases (or clone the git repo) and then install 
 [WTHIT](https://www.curseforge.com/minecraft/mc-mods/wthit)
 
 [SkinRestorer](https://www.curseforge.com/minecraft/mc-mods/skinrestorer)
+
+[ExtraOrigins](https://www.curseforge.com/minecraft/mc-mods/extra-origins/)
