@@ -1,5 +1,5 @@
 # Morb Modpack
-"Simple" Fabric 1.19 modpack with a bunch of mods that we made for friends. Exploration with Origin and a bunch of other mods.
+"Simple" Fabric 1.19.2 modpack with a bunch of mods that we made for friends. Exploration with Origin and a bunch of other mods.
 
 ## Installation
 
