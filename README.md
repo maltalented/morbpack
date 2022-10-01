@@ -9,8 +9,6 @@ If you don't want to install a non-standard launcher, you can download the sourc
 
 ## Mods + CurseForge Links
 
-[Amplified Nether](https://www.curseforge.com/minecraft/mc-mods/amplified-nether)
-
 [Forge Config API Port](https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric)
 
 [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
