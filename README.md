@@ -3,7 +3,7 @@
 
 ## Installation
 
-For clients (players), you can use a launcher like [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher) or the [CurseForge Launcher](https://download.curseforge.com/) and then install the modpack, either via the .zip file in releases, or via CurseForge itself. 
+For clients (players), you can use a launcher like [Prism](https://github.com/PrismLauncher/PrismLauncher) or the [CurseForge Launcher](https://download.curseforge.com/) and then install the modpack, either via the .zip file in releases, or via CurseForge itself. 
 
 If you don't want to install a non-standard launcher, you can download the source code (releases or git clone) and then install it to your .minecraft/mods. Make sure Fabric is installed.
 
